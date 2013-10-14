@@ -1,4 +1,4 @@
 LehenengoFrogak
 ===============
 
-GitHub frogatzeko repoa-
+GitHub frogatzeko repo-a.
